@@ -36,11 +36,7 @@ Contact: xxxocampocuervo321xxx@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <img src="https://media.giphy.com/media/hMK5fJ26FzXY0/giphy.gif" width="30"> 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-green.svg" width="100%" alt="Snake terminal animation" />
-</p>
+## <img src="https://media.giphy.com/media/hMK5fJ26FzXY0/giphy.gif" width="100"> 
 
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79ed63bb-18f3-4a65-a14d-0b1b09118e09/darmjmf-a112912c-4d2a-41a3-8aa0-3c6b5d77f6d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83OWVkNjNiYi0xOGYzLTRhNjUtYTE0ZC0wYjFiMDkxMThlMDkvZGFybWptZi1hMTEyOTEyYy00ZDJhLTQxYTMtOGFhMC0zYzZiNWQ3N2Y2ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nxCkJHi8uxstmHKbHo1rZ4TZVNFzc5bd7nHPr-ziuPg" width="300" alt="Snake gif" />
