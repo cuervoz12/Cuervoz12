@@ -24,15 +24,27 @@ Contact: xxxocampocuervo321xxx@gmail.com
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552508233861) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jarbey_o12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarbey-andres-ocampo-cuervo-890730349/)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,spring,react,bootstrap,firebase,vite,mssql,mysql,github,kali,windows,ubuntu&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <em>Pasa el mouse sobre los íconos ✨</em>
+</p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
+## <img src="https://media.giphy.com/media/hMK5fJ26FzXY0/giphy.gif" width="30"> <b>Terminal</b>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;jarbey_ocampo+-+backend+%26+security;%24+ping+network.local;connection+established+%E2%9C%93;%24+status;learning...+building...+securing..." alt="Terminal Typing SVG" />
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -40,49 +52,26 @@ Contact: xxxocampocuervo321xxx@gmail.com
   <img src="https://komarev.com/ghpvc/?username=JarbeyOcampo1&label=Intruders%20Tracked&color=00ff00&style=flat"/>
 </p>
 
-<!-- Main Stats + Streak -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JarbeyOcampo1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JarbeyOcampo1&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&include_all_commits=true&count_private=true"/>
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarbeyOcampo1&theme=react-dark&hide_border=true&line=00ff00&point=ffffff"/>
 </p>
 
-<!-- Contribution Calendar -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarbeyOcampo1&theme=chartreuse_dark"/>
 </p>
 
-<!-- Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JarbeyOcampo1&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JarbeyOcampo1&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="JarbeyOcampo1" /></a> </p>
-<!--- trophy (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+</p>         
 <br>
 
 ## Here are some 🦜 🐱 Parrots and Cats 😂:
