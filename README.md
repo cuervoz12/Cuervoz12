@@ -30,49 +30,13 @@ Contact: xxxocampocuervo321xxx@gmail.com
   <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,spring,react,bootstrap,firebase,vite,mssql,mysql,github,kali,windows,ubuntu&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <em>Pasa el mouse sobre los íconos ✨</em>
-</p>
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <img src="https://media.giphy.com/media/hMK5fJ26FzXY0/giphy.gif" width="30"> <b>Terminal</b>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;jarbey_ocampo+-+backend+%26+security;%24+ping+network.local;connection+established+%E2%9C%93;%24+status;learning...+building...+securing..." alt="Terminal Typing SVG" />
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JarbeyOcampo1&label=Intruders%20Tracked&color=00ff00&style=flat"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JarbeyOcampo1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JarbeyOcampo1&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbeyOcampo1&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarbeyOcampo1&theme=react-dark&hide_border=true&line=00ff00&point=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarbeyOcampo1&theme=chartreuse_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JarbeyOcampo1&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
-</p>         
-<br>
 
 ## Here are some 🦜 🐱 Parrots and Cats 😂:
 
