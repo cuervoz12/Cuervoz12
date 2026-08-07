@@ -27,10 +27,10 @@ Contact: xxxocampocuervo321xxx@gmail.com
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,nodejs,spring,react,bootstrap,firebase,vite,mssql,mysql,github,kali,windows,ubuntu&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,django,js,ts,react,mysql,mssql,git,github,linux,vscode,idea&theme=dark&perline=7" />
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
