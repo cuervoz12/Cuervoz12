@@ -36,6 +36,12 @@ Contact: xxxocampocuervo321xxx@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+## <img src="https://media.giphy.com/media/hMK5fJ26FzXY0/giphy.gif" width="30"> <b>Terminal — Snake Eating My Commits</b>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-green.svg" width="100%" alt="Snake terminal animation" />
+</p>
+
 
 
 ## Here are some 🦜 🐱 Parrots and Cats 😂:
